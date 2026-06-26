@@ -1,0 +1,371 @@
+{
+  "run": 3,
+  "scored_accounts": [
+    {
+      "account_id": "A001",
+      "risk_score": 28,
+      "flag": "declining"
+    },
+    {
+      "account_id": "A002",
+      "risk_score": 39,
+      "flag": "declining"
+    },
+    {
+      "account_id": "A003",
+      "risk_score": 12,
+      "flag": "stable"
+    },
+    {
+      "account_id": "A004",
+      "risk_score": 46,
+      "flag": "declining"
+    },
+    {
+      "account_id": "A005",
+      "risk_score": 33,
+      "flag": "declining"
+    },
+    {
+      "account_id": "A006",
+      "risk_score": 18,
+      "flag": "stable"
+    },
+    {
+      "account_id": "A007",
+      "risk_score": 24,
+      "flag": "declining"
+    },
+    {
+      "account_id": "A008",
+      "risk_score": 52,
+      "flag": "declining"
+    },
+    {
+      "account_id": "A009",
+      "risk_score": 31,
+      "flag": "declining"
+    },
+    {
+      "account_id": "A010",
+      "risk_score": 42,
+      "flag": "declining"
+    },
+    {
+      "account_id": "A011",
+      "risk_score": 16,
+      "flag": "stable"
+    },
+    {
+      "account_id": "A012",
+      "risk_score": 37,
+      "flag": "stable"
+    },
+    {
+      "account_id": "A013",
+      "risk_score": 9,
+      "flag": "stable"
+    },
+    {
+      "account_id": "A014",
+      "risk_score": 48,
+      "flag": "declining"
+    },
+    {
+      "account_id": "A015",
+      "risk_score": 21,
+      "flag": "stable"
+    },
+    {
+      "account_id": "A016",
+      "risk_score": 26,
+      "flag": "stable"
+    },
+    {
+      "account_id": "A017",
+      "risk_score": 54,
+      "flag": "declining"
+    },
+    {
+      "account_id": "A018",
+      "risk_score": 14,
+      "flag": "stable"
+    }
+  ],
+  "priority_top5": [
+    {
+      "account_id": "A017",
+      "risk_score": 54,
+      "flag": "declining"
+    },
+    {
+      "account_id": "A008",
+      "risk_score": 52,
+      "flag": "declining"
+    },
+    {
+      "account_id": "A014",
+      "risk_score": 48,
+      "flag": "declining"
+    },
+    {
+      "account_id": "A004",
+      "risk_score": 46,
+      "flag": "declining"
+    },
+    {
+      "account_id": "A010",
+      "risk_score": 42,
+      "flag": "declining"
+    }
+  ],
+  "routed_issues": [
+    {
+      "ticket_id": "T001",
+      "route": "escalation",
+      "draft_reply": "Thanks for flagging this \u2014 we're on it and will update you shortly."
+    },
+    {
+      "ticket_id": "T002",
+      "route": "escalation",
+      "draft_reply": "Thanks for flagging this \u2014 we're on it and will update you shortly."
+    },
+    {
+      "ticket_id": "T003",
+      "route": "scheduled_follow_up",
+      "draft_reply": "Thanks for flagging this \u2014 we're on it and will update you shortly."
+    },
+    {
+      "ticket_id": "T004",
+      "route": "scheduled_follow_up",
+      "draft_reply": "Thanks for flagging this \u2014 we're on it and will update you shortly."
+    },
+    {
+      "ticket_id": "T005",
+      "route": "scheduled_follow_up",
+      "draft_reply": "Thanks for flagging this \u2014 we're on it and will update you shortly."
+    },
+    {
+      "ticket_id": "T006",
+      "route": "escalation",
+      "draft_reply": "Thanks for flagging this \u2014 we're on it and will update you shortly."
+    },
+    {
+      "ticket_id": "T007",
+      "route": "escalation",
+      "draft_reply": "Thanks for flagging this \u2014 we're on it and will update you shortly."
+    },
+    {
+      "ticket_id": "T008",
+      "route": "scheduled_follow_up",
+      "draft_reply": "Thanks for flagging this \u2014 we're on it and will update you shortly."
+    },
+    {
+      "ticket_id": "T009",
+      "route": "scheduled_follow_up",
+      "draft_reply": "Thanks for flagging this \u2014 we're on it and will update you shortly."
+    },
+    {
+      "ticket_id": "T010",
+      "route": "immediate_resolution",
+      "draft_reply": "Thanks for flagging this \u2014 we're on it and will update you shortly."
+    },
+    {
+      "ticket_id": "T011",
+      "route": "scheduled_follow_up",
+      "draft_reply": "Thanks for flagging this \u2014 we're on it and will update you shortly."
+    },
+    {
+      "ticket_id": "T012",
+      "route": "scheduled_follow_up",
+      "draft_reply": "Thanks for flagging this \u2014 we're on it and will update you shortly."
+    }
+  ],
+  "checkin_preps": [
+    {
+      "checkin_id": "C001",
+      "agenda": "SSO status, rollout unblock plan, executive confidence",
+      "continuity_note": "CSM to coordinate technical escalation"
+    },
+    {
+      "checkin_id": "C002",
+      "agenda": "ROI summary, adoption proof, renewal risk",
+      "continuity_note": "Prepare renewal value snapshot"
+    },
+    {
+      "checkin_id": "C003",
+      "agenda": "Mobile onboarding issue, renewal timeline",
+      "continuity_note": "Send mobile onboarding plan"
+    },
+    {
+      "checkin_id": "C004",
+      "agenda": "New department rollout, best-practice setup",
+      "continuity_note": "Share rollout plan"
+    },
+    {
+      "checkin_id": "C005",
+      "agenda": "Automation limits, premium use cases",
+      "continuity_note": "Send premium automation options"
+    },
+    {
+      "checkin_id": "C006",
+      "agenda": "Reporting usage drop, export data trust",
+      "continuity_note": "Investigate data freshness issue"
+    },
+    {
+      "checkin_id": "C007",
+      "agenda": "Champion gap, platform value, reactivation",
+      "continuity_note": "Identify new sponsor and propose reset"
+    },
+    {
+      "checkin_id": "C008",
+      "agenda": "Roadmap dependency, strategic relationship",
+      "continuity_note": "Escalate roadmap question to product"
+    },
+    {
+      "checkin_id": "C009",
+      "agenda": "Admin training, permissions confusion",
+      "continuity_note": "Provide permissions guide"
+    },
+    {
+      "checkin_id": "C010",
+      "agenda": "Governance plan, multi-team adoption",
+      "continuity_note": "Draft phased rollout approach"
+    },
+    {
+      "checkin_id": "C011",
+      "agenda": "Dashboard export issue, adoption decline",
+      "continuity_note": "Investigate reporting data issue"
+    },
+    {
+      "checkin_id": "C012",
+      "agenda": "Sync failures, technical escalation",
+      "continuity_note": "Escalate integration logs"
+    }
+  ],
+  "quality_results": [
+    {
+      "output_id": "O001",
+      "pass": false,
+      "missing_standards": [
+        "QS004",
+        "QS006"
+      ]
+    },
+    {
+      "output_id": "O002",
+      "pass": false,
+      "missing_standards": [
+        "QS003",
+        "QS005",
+        "QS006"
+      ]
+    },
+    {
+      "output_id": "O003",
+      "pass": false,
+      "missing_standards": [
+        "QS004",
+        "QS005",
+        "QS006"
+      ]
+    },
+    {
+      "output_id": "O004",
+      "pass": false,
+      "missing_standards": [
+        "QS003",
+        "QS004",
+        "QS005"
+      ]
+    },
+    {
+      "output_id": "O005",
+      "pass": false,
+      "missing_standards": [
+        "QS001",
+        "QS003",
+        "QS005",
+        "QS006"
+      ]
+    },
+    {
+      "output_id": "O006",
+      "pass": false,
+      "missing_standards": [
+        "QS001",
+        "QS002",
+        "QS006"
+      ]
+    },
+    {
+      "output_id": "O007",
+      "pass": false,
+      "missing_standards": [
+        "QS003",
+        "QS004",
+        "QS005",
+        "QS006"
+      ]
+    },
+    {
+      "output_id": "O008",
+      "pass": false,
+      "missing_standards": [
+        "QS001",
+        "QS003",
+        "QS006"
+      ]
+    }
+  ],
+  "intervention": {
+    "segment_size": 10,
+    "intervention": "Targeted exec check-in + adoption workshop for accounts with health drop >5pts.",
+    "success_metric": "Health score recovery >=5pts within 30 days for 60% of segment."
+  },
+  "token_report": {
+    "account_monitoring": {
+      "calls": 2,
+      "input_tokens": 359,
+      "output_tokens": 278,
+      "model": "claude-haiku-4-5-20251001",
+      "cost_usd": 0.001749
+    },
+    "prioritization": {
+      "calls": 1,
+      "input_tokens": 110,
+      "output_tokens": 30,
+      "model": "claude-sonnet-4-6",
+      "cost_usd": 0.00078
+    },
+    "inbound_issues": {
+      "calls": 12,
+      "input_tokens": 765,
+      "output_tokens": 425,
+      "model": "claude-haiku-4-5-20251001",
+      "cost_usd": 0.00289
+    },
+    "checkins": {
+      "calls": 12,
+      "input_tokens": 1397,
+      "output_tokens": 393,
+      "model": "claude-sonnet-4-6",
+      "cost_usd": 0.010086
+    },
+    "quality_review": {
+      "calls": 8,
+      "input_tokens": 689,
+      "output_tokens": 178,
+      "model": "claude-sonnet-4-6",
+      "cost_usd": 0.004737
+    },
+    "intervention": {
+      "calls": 1,
+      "input_tokens": 194,
+      "output_tokens": 51,
+      "model": "claude-sonnet-4-6",
+      "cost_usd": 0.001347
+    },
+    "TOTAL_cost_usd": 0.021589
+  }
+}

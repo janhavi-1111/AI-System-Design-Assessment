@@ -1,0 +1,13 @@
+{
+  "runs": 5,
+  "mock_mode": true,
+  "per_run_cost_usd": [
+    0.021589,
+    0.021589,
+    0.021589,
+    0.021589,
+    0.021589
+  ],
+  "avg_cost_per_run_usd": 0.021589,
+  "projected_annual_cost_usd": 5.4
+}
